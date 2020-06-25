@@ -1,11 +1,11 @@
 .nav-link {
-  color: rgba(189, 186, 11, 0.945) !important;
+  color: rgb(254,207,63) !important;
   margin-left: 25px;
   font-size: 16px;
 }
 
 .navbar-brand{
-  color: rgba(189, 186, 11, 0.945) !important;
+  color: rgb(254,207,63) !important;
 }
 
 .carousel {
@@ -15,8 +15,24 @@
 }
 
 .caroimg{
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
+  margin: auto auto;
 }
 
+.services{
+  background-color: rgb(33,33,33);
+  height: 204px;
+}
+
+.servicestext{
+  color: rgb(254,207,63) 
+}
+
+.companyname{
+  color: rgb(254,207,63);
+  font-size: 20px;
+}
+
+.whatwedo{
+  color: white;
+  font-size: 14px;
+}
