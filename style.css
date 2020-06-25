@@ -1,0 +1,22 @@
+.nav-link {
+  color: rgba(189, 186, 11, 0.945) !important;
+  margin-left: 25px;
+  font-size: 16px;
+}
+
+.navbar-brand{
+  color: rgba(189, 186, 11, 0.945) !important;
+}
+
+.carousel {
+  height: 500px;
+  width: 100%;
+  overflow:hidden;
+}
+
+.caroimg{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
