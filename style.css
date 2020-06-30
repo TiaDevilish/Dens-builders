@@ -56,6 +56,7 @@ body{
 .maincontent{
   height: 100vh;
   width: 100vw;
+  background-color: rgb(33,33,33);
 }
 
 #page-header {
@@ -84,5 +85,16 @@ body{
 
 .headtertext1{
   font-size: 40px;
+  color: rgb(254,207,63);
+  font-weight: bold;
+  font-style: italic;
+}
+
+.greettxt{
+  color: #eee;
+  margin-left: 150px;
+}
+
+.aboutus{
   color: rgb(254,207,63);
 }
