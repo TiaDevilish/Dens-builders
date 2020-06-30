@@ -16,11 +16,13 @@
 
 .caroimg{
   margin: auto auto;
+  height: 500px;
 }
 
 .services{
   background-color: rgb(33,33,33);
   height: 204px;
+  text-align: center;
 }
 
 .servicestext{
@@ -29,10 +31,24 @@
 
 .companyname{
   color: rgb(254,207,63);
-  font-size: 20px;
+  font-size: 22px;
 }
 
 .whatwedo{
   color: white;
   font-size: 14px;
 }
+
+.pserv{
+  margin-bottom: 6px;
+}
+
+body{
+  overflow: hidden;
+}
+
+.contentholder{
+  height: 100vh;
+  background-color: rgb(33,33,33);
+}
+
