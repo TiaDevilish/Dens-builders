@@ -72,4 +72,17 @@ body{
 
 .about-img{
   width: 450px;
+  margin-left: 100px;
+  margin-top: 10px;
+}
+
+.headtertext{
+  color: white;
+  font-size: 45px;
+  margin-top: -20px;
+}
+
+.headtertext1{
+  font-size: 40px;
+  color: rgb(254,207,63);
 }
