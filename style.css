@@ -79,20 +79,20 @@ body{
 
 .headtertext{
   color: white;
-  font-size: 45px;
+  font-size: 40px;
   margin-top: -20px;
 }
 
 .headtertext1{
-  font-size: 40px;
+  font-size: 35px;
   color: rgb(254,207,63);
   font-weight: bold;
   font-style: italic;
+  text-decoration: underline;
 }
 
 .greettxt{
   color: #eee;
-  margin-left: 150px;
 }
 
 .aboutus{
