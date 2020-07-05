@@ -202,12 +202,7 @@
 .contact-form label{
   font-weight:600;
 }
-.contact-form button{
-  background: #25274d;
-  color: #fff;
-  font-weight: 600;
-  width: 25%;
-}
+
 .contact-form button:focus{
   box-shadow:none;
 }
@@ -217,4 +212,9 @@
   margin: auto;
   min-width: 100vw;
   min-height: 100vh;
+}
+
+.titletext{
+  font-weight: bold;
+  margin-top: 55px;
 }
