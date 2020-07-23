@@ -172,49 +172,34 @@
 }
 
 /*contact page */
-.contact{
-  padding: 4%;
-  height: 400px;
-  width: 900px;
-  padding-top: 100px;
-}
-.col-md-3{
-  background: rgb(254,207,63);
-  padding: 4%;
-  border-top-left-radius: 0.5rem;
-  border-bottom-left-radius: 0.5rem;
-}
-.contact-info{
-  margin-top:10%;
-}
-.contact-info img{
-  margin-bottom: 15%;
-}
-.contact-info h2{
-  margin-bottom: 10%;
-}
-.col-md-9{
-  background: #fff;
-  padding: 3%;
-  border-top-right-radius: 0.5rem;
-  border-bottom-right-radius: 0.5rem;
-}
-.contact-form label{
-  font-weight:600;
-}
-
-.contact-form button:focus{
-  box-shadow:none;
-}
-
 .contactholder{
   background-color: rgb(33, 33, 33);
   margin: auto;
   min-width: 100vw;
   min-height: 100vh;
+  
+}
+
+.card-img{
+  min-height: 405px;
+}
+
+.card{
+  margin: auto;
+  top: 100px;
+}
+
+.contactus{
+  text-decoration: underline;
+  color: rgb(33, 33, 33);
+}
+
+.whatwelove{
+  font-size: 16px;
+  color: rgb(33, 33, 33);
 }
 
 .titletext{
-  font-weight: bold;
-  margin-top: 55px;
+  margin-top: 50px;
 }
+
