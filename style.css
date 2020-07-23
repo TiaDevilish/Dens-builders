@@ -44,10 +44,6 @@
   margin-bottom: 6px;
 }
 
-/* body{
-  overflow: hidden;
-} */
-
 .contentholder{
   height: 100vh;
   background-color: rgb(33,33,33);
@@ -160,6 +156,7 @@
   width: 150px;
   height: 250px;
   margin-top: 10px;
+  cursor: default;
 }
 
 .ourwork{
@@ -197,6 +194,7 @@
 .whatwelove{
   font-size: 16px;
   color: rgb(33, 33, 33);
+  margin-top: 10px;
 }
 
 .titletext{
